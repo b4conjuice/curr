@@ -1,0 +1,8 @@
+{
+  "name": "curr",
+  "short_name": "curr",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
